@@ -1,0 +1,52 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 40px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #f0f0f0;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.logo img {
+    width: 22px;
+    height: 22px;
+    
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+
+header a {
+    text-decoration: none;
+    color: #626b80;
+    font-size: 12px;
+}
+
+.nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.open-account {
+    background-color: #3977ed;
+    color: rgb(251, 248, 248);
+    padding: 10px 16px;
+    border: none;
+    border-radius: 25px;
+    font-size: 12px;
+    cursor: pointer;
+}
