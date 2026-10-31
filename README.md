@@ -21,3 +21,7 @@ All names, figures and artwork are made-up sample content.
 - a modern and responsive fintech website design to give users a clean, intuitive, and user-friendly digital financial experience.
 - built with html and css, focusing on neat layout and responsive design
 - used grid and media query for the cards and (`transform: rotate(6deg);`) to rotate the phone 
+
+## screenshots
+
+- ![the layout screenshots]()
