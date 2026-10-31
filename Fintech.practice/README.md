@@ -24,4 +24,14 @@ All names, figures and artwork are made-up sample content.
 
 ## screenshots
 
-- ![the layout screenshots]()
+- ![the layout screenshots](images/Screenshot%202026-10-31%20114351.png)
+- ![the layout screenshots](images/Screenshot%202026-10-31%20114453.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20114602.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20114711.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20114900.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20114953.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20115051.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20115132.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20115219.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20115259.png)
+- ![the layout screenshot](images/Screenshot%202026-10-31%20115333.png)
